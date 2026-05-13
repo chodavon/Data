@@ -1,0 +1,95 @@
+{
+  "hotels": {
+    "1_star": [
+      {
+        "name": "Budget Guesthouse",
+        "type": "Guesthouse",
+        "features": [
+          "Basic Room",
+          "Free WiFi",
+          "Fan or Air Conditioning"
+        ]
+      }
+    ],
+    "2_star": [
+      {
+        "name": "Standard City Hotel",
+        "type": "Hotel",
+        "features": [
+          "Private Bathroom",
+          "Air Conditioning",
+          "24/7 Reception"
+        ]
+      }
+    ],
+    "3_star": [
+      {
+        "name": "Comfort Stay Hotel",
+        "type": "Hotel",
+        "features": [
+          "Swimming Pool",
+          "Restaurant",
+          "Airport Pickup"
+        ]
+      }
+    ],
+    "4_star": [
+      {
+        "name": "Premium Resort Hotel",
+        "type": "Resort",
+        "features": [
+          "Spa Service",
+          "Fitness Center",
+          "Luxury Rooms",
+          "Buffet Breakfast"
+        ]
+      }
+    ],
+    "5_star": [
+      {
+        "name": "Luxury Palace Resort",
+        "type": "Luxury Resort",
+        "features": [
+          "Private Villa",
+          "Fine Dining",
+          "Premium Spa",
+          "VIP Services",
+          "Private Pool"
+        ]
+      }
+    ],
+    "boutique_hotels": [
+      {
+        "name": "Heritage Boutique Hotel",
+        "type": "Boutique Hotel",
+        "features": [
+          "Khmer Style Design",
+          "Personalized Service",
+          "Quiet Environment"
+        ]
+      }
+    ],
+    "eco_resorts": [
+      {
+        "name": "Nature Eco Resort",
+        "type": "Eco Resort",
+        "features": [
+          "Eco-Friendly",
+          "Forest View",
+          "Community Activities"
+        ]
+      }
+    ],
+    "hostels": [
+      {
+        "name": "Backpacker Hostel",
+        "type": "Hostel",
+        "features": [
+          "Shared Dormitory",
+          "Social Events",
+          "Budget Friendly"
+        ]
+      }
+    ]
+  }
+}

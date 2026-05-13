@@ -1,0 +1,68 @@
+{
+  "restaurants": {
+    "local_restaurants": [
+      {
+        "name": "Khmer Heritage Restaurant",
+        "category": "Traditional Khmer Food",
+        "features": [
+          "Local Cuisine",
+          "Traditional Decoration",
+          "Cultural Performance"
+        ]
+      },
+      {
+        "name": "Street Food Market",
+        "category": "Street Food",
+        "features": [
+          "Affordable",
+          "Local Experience",
+          "Night Market Atmosphere"
+        ]
+      }
+    ],
+    "fine_dining": [
+      {
+        "name": "Royal Angkor Dining",
+        "category": "Fine Dining",
+        "features": [
+          "Luxury Environment",
+          "International Menu",
+          "Wine Service"
+        ]
+      }
+    ],
+    "family_restaurants": [
+      {
+        "name": "Family Garden Restaurant",
+        "category": "Family Friendly",
+        "features": [
+          "Large Seating",
+          "Kids Menu",
+          "Group Friendly"
+        ]
+      }
+    ],
+    "international_restaurants": [
+      {
+        "name": "Global Taste Restaurant",
+        "category": "International Cuisine",
+        "features": [
+          "Asian & Western Food",
+          "Buffet Service",
+          "Tourist Friendly"
+        ]
+      }
+    ],
+    "cafes": [
+      {
+        "name": "Nomad Coffee Hub",
+        "category": "Cafe",
+        "features": [
+          "High-Speed WiFi",
+          "Workspace Friendly",
+          "Coffee & Bakery"
+        ]
+      }
+    ]
+  }
+}

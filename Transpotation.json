@@ -1,0 +1,70 @@
+{
+  "transportation": {
+    "vip_transport": [
+      {
+        "model": "Toyota Alphard",
+        "type": "VIP Luxury Van",
+        "capacity": "5-7 Passengers",
+        "features": [
+          "Leather Seats",
+          "Air Conditioning",
+          "VIP Comfort",
+          "Private Driver"
+        ]
+      },
+      {
+        "model": "Toyota Hiace VIP",
+        "type": "VIP Van",
+        "capacity": "8-12 Passengers",
+        "features": [
+          "Luxury Interior",
+          "USB Charging",
+          "Comfortable Seating"
+        ]
+      }
+    ],
+    "normal_transport": [
+      {
+        "model": "Hyundai Starex",
+        "type": "Tourist Van",
+        "capacity": "8-10 Passengers",
+        "features": [
+          "Air Conditioning",
+          "Comfortable Seats",
+          "Luggage Space"
+        ]
+      },
+      {
+        "model": "Toyota Van",
+        "type": "Standard Van",
+        "capacity": "10-12 Passengers",
+        "features": [
+          "Affordable",
+          "Tour Group Friendly"
+        ]
+      }
+    ],
+    "bus_transport": [
+      {
+        "model": "25-Seater Tourist Bus",
+        "type": "Mini Bus",
+        "capacity": "25 Passengers",
+        "features": [
+          "Air Conditioning",
+          "Group Travel",
+          "Microphone System"
+        ]
+      },
+      {
+        "model": "45-Seater Tourist Bus",
+        "type": "Coach Bus",
+        "capacity": "45 Passengers",
+        "features": [
+          "Large Group Support",
+          "Reclining Seats",
+          "Storage Space"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "tour_guides": [
+    {
+      "language": "English",
+      "type": "Licensed Tour Guide"
+    },
+    {
+      "language": "Chinese",
+      "type": "Licensed Tour Guide"
+    },
+    {
+      "language": "French",
+      "type": "Licensed Tour Guide"
+    },
+    {
+      "language": "Japanese",
+      "type": "Licensed Tour Guide"
+    },
+    {
+      "language": "Korean",
+      "type": "Licensed Tour Guide"
+    },
+    {
+      "language": "Thai",
+      "type": "Licensed Tour Guide"
+    },
+    {
+      "language": "Spanish",
+      "type": "Licensed Tour Guide"
+    }
+  ]
+}

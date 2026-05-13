@@ -1,17 +1,3 @@
-[
-  {
-    "name": "Angkor Wat",
-    "location": "Siem Reap, Cambodia",
-    "type": "Temple",
-    "description": "A famous historical temple complex."
-  },
-  {
-    "name": "Eiffel Tower",
-    "location": "Paris, France",
-    "type": "Monument",
-    "description": "An iconic iron tower in Paris."
-  }
-]
 {
   "tourist_places": {
     "phnom_penh": [

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Angkor Wat",
+    "location": "Siem Reap, Cambodia",
+    "type": "Temple",
+    "description": "A famous historical temple complex."
+  },
+  {
+    "name": "Eiffel Tower",
+    "location": "Paris, France",
+    "type": "Monument",
+    "description": "An iconic iron tower in Paris."
+  }
+]
+{
+  "tourist_places": {
+    "phnom_penh": [
+      {
+        "name": "Royal Palace",
+        "category": "Historical & Cultural",
+        "description": "Official residence of the King of Cambodia with traditional Khmer architecture."
+      },
+      {
+        "name": "Silver Pagoda",
+        "category": "Religious Site",
+        "description": "Famous pagoda inside the Royal Palace complex with silver floor tiles."
+      },
+      {
+        "name": "National Museum of Cambodia",
+        "category": "Museum",
+        "description": "Museum displaying Khmer art, sculptures, and historical artifacts."
+      },
+      {
+        "name": "Wat Phnom",
+        "category": "Religious Site",
+        "description": "Historic Buddhist temple and iconic landmark of Phnom Penh."
+      },
+      {
+        "name": "Sisowath Quay Riverside",
+        "category": "Nightlife & Riverside",
+        "description": "Popular riverside area with restaurants, cafes, bars, and sunset views."
+      },
+      {
+        "name": "Central Market",
+        "category": "Shopping",
+        "description": "Art deco market famous for souvenirs, jewelry, clothes, and local products."
+      },
+      {
+        "name": "Russian Market",
+        "category": "Shopping",
+        "description": "Popular market for handicrafts, local street food, and fashion items."
+      },
+      {
+        "name": "Tuol Sleng Genocide Museum",
+        "category": "Historical",
+        "description": "Museum preserving Cambodia’s history during the Khmer Rouge regime."
+      },
+      {
+        "name": "Choeung Ek Genocidal Center",
+        "category": "Historical",
+        "description": "Historical memorial site known as the Killing Fields."
+      },
+      {
+        "name": "AEON Mall Phnom Penh",
+        "category": "Modern Shopping",
+        "description": "Large shopping mall with international brands, cinema, and restaurants."
+      },
+      {
+        "name": "Bassac Lane",
+        "category": "Nightlife",
+        "description": "Popular nightlife street with bars, live music, and cocktail lounges."
+      },
+      {
+        "name": "Mekong River Cruise",
+        "category": "River Activity",
+        "description": "Sunset and dinner cruises along the Mekong and Tonle Sap rivers."
+      }
+    ],
+    "siem_reap": [
+      {
+        "name": "Angkor Wat",
+        "category": "Temple & UNESCO Heritage",
+        "description": "World-famous ancient temple complex and symbol of Cambodia."
+      },
+      {
+        "name": "Angkor Thom",
+        "category": "Historical Temple",
+        "description": "Ancient Khmer capital city with temples and historical gates."
+      },
+      {
+        "name": "Bayon Temple",
+        "category": "Temple",
+        "description": "Temple famous for giant smiling stone faces."
+      },
+      {
+        "name": "Ta Prohm",
+        "category": "Temple",
+        "description": "Temple surrounded by giant tree roots and jungle scenery."
+      },
+      {
+        "name": "Banteay Srei",
+        "category": "Temple",
+        "description": "Pink sandstone temple known for detailed carvings."
+      },
+      {
+        "name": "Pub Street",
+        "category": "Nightlife",
+        "description": "Popular nightlife area with bars, clubs, restaurants, and live music."
+      },
+      {
+        "name": "Angkor Night Market",
+        "category": "Shopping",
+        "description": "Night market selling souvenirs, handicrafts, clothes, and street food."
+      },
+      {
+        "name": "Tonle Sap Floating Village",
+        "category": "Nature & Community",
+        "description": "Floating houses and fishing communities on Tonle Sap Lake."
+      },
+      {
+        "name": "Phare Cambodian Circus",
+        "category": "Entertainment",
+        "description": "Cultural circus combining theater, acrobatics, and Cambodian storytelling."
+      },
+      {
+        "name": "Cambodian Cultural Village",
+        "category": "Cultural Attraction",
+        "description": "Theme park showcasing Cambodian traditions and cultural performances."
+      },
+      {
+        "name": "Siem Reap Riverside",
+        "category": "Relaxation & Cafe",
+        "description": "Relaxing riverside area with cafes, restaurants, and local shops."
+      },
+      {
+        "name": "Artisans Angkor",
+        "category": "Handicraft & Workshop",
+        "description": "Workshop and store promoting traditional Khmer handicrafts."
+      }
+    ]
+  }
+}
